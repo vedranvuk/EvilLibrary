@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.867,C:\Dev\Delphi\Components\EvilLibrary\Source\Unit1.pas=C:\Dev\Delphi\Components\EvilLibrary\Source\EvilWorks.Vcl.VirtualListbox.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.011,=C:\Dev\Delphi\Components\EvilLibrary\Source\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.516,=C:\Dev\Delphi\Components\EvilLibrary\Source\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.736,=C:\Dev\Delphi\Components\EvilLibrary\Source\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.514,=C:\Dev\Delphi\Components\EvilLibrary\Source\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.039,=C:\Dev\Delphi\Components\EvilLibrary\Source\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.760,C:\Dev\Delphi\Components\EvilLibrary\Source\EvilWorks.Vcl.Reg.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.626,=C:\Dev\Delphi\Components\EvilLibrary\Source\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.123,=C:\Dev\Delphi\Components\EvilLibrary\Source\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.142,C:\Dev\Delphi\Components\EvilLibrary\Source\Unit1.pas=C:\Dev\Delphi\Components\EvilLibrary\Source\EvilWorks.Vcl.MarkupControl.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.531,C:\Dev\Delphi\Components\EvilLibrary\Source\Unit1.pas=C:\Dev\Delphi\Components\EvilLibrary\Source\EvilWorks.Web.ProxyConnector.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.643,C:\Dev\Delphi\Components\EvilLibrary\Source\EvilLibraryR.dproj=C:\Dev\Delphi\Components\EvilLibrary\Source\EvilLibrary.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.180,C:\Dev\Delphi\Components\EvilLibrary\Source\Unit1.pas=C:\Dev\Delphi\Components\EvilLibrary\Source\EvilWorks.Web.Connectors.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.082,C:\Dev\Delphi\Components\EvilLibrary\Source\Unit1.pas=C:\Dev\Delphi\Components\EvilLibrary\Source\EvilWorks.Vcl.TweetsControl.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.278,=C:\Dev\Delphi\Components\EvilLibrary\Source\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.174,=C:\Dev\Delphi\Components\EvilLibrary\Source\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.691,=C:\Dev\Delphi\Components\EvilLibrary\Source\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.658,=C:\Dev\Delphi\Components\EvilLibrary\Source\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.908,C:\Dev\Delphi\Components\EvilLibrary\Source\EvilWorks.Vcl.TextDisplay.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.676,C:\Dev\Delphi\Components\EvilLibrary\Source\EvilWorks.Vcl.TextDisplay.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.656,C:\Dev\Delphi\Components\EvilLibrary\Source\EvilWorks.Web.ProxyConnector.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.545,C:\Dev\Delphi\Components\EvilLibrary\Source\EvilWorks.Vcl.Fullscreen.pas=C:\Dev\Delphi\Components\EvilLibrary\Source\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.303,=C:\Dev\Delphi\Components\EvilLibrary\Source\EvilWorks.Vcl.TextDisplay.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.076,=C:\Dev\Delphi\Components\EvilLibrary\Source\EvilWorks.Vcl.MarkupLabel.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.712,=C:\Dev\Delphi\Components\EvilLibrary\Source\JSONInspector.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.670,C:\Dev\Delphi\Components\EvilLibrary\Source\EvilWorks.Web.TwitterTypes.pas=C:\Dev\Delphi\Components\EvilLibrary\Source\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.193,C:\Dev\Delphi\Components\EvilLibrary\Source\EvilWorks.Web.OAuth.pas=C:\Dev\Delphi\Components\EvilLibrary\Source\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.140,C:\Dev\Delphi\Components\EvilLibrary\Source\EvilWorks.VCL.AsyncSockets.pas=C:\Dev\Delphi\Components\EvilLibrary\Source\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.161,C:\Dev\Delphi\Components\EvilLibrary\Source\EvilWorks.Web.AsyncSockets.pas=C:\Temp\EvilWorks.Web.AsyncSockets.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.853,C:\Dev\Delphi\Components\EvilLibrary\Source\EvilWorks.Web.IRC.pas=C:\Dev\Delphi\Components\EvilLibrary\Source\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.443,C:\Dev\Delphi\Components\EvilLibrary\Source\EvilWorks.VCL.AsyncSockets.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.856,C:\Temp\EvilWorks.Web.AsyncSockets.pas=C:\Dev\Delphi\Components\EvilLibrary\Source\EvilWorks.Web.AsyncSockets.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.096,=C:\Dev\Delphi\Components\EvilLibrary\Source\EvilWorks.Web.Twitter.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.151,C:\Dev\Delphi\Components\EvilLibrary\Source\EvilWorks.Web.Clients.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.919,C:\Dev\Delphi\Components\EvilLibrary\Source\EvilWorks.Web.Connectors.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.876,=C:\Dev\Delphi\Components\EvilLibrary\Source\EvilWorks.VirtualTrees.LogTreeView.pas</Transaction>
+  </Transactions>
+</BorlandProject>

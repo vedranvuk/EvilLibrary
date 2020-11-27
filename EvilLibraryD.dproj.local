@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.315,=C:\Dev\Delphi\Components\EvilLibrary\Source\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.561,=C:\Dev\Delphi\Components\EvilLibrary\Source\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.376,C:\Dev\Delphi\Components\EvilLibrary\Source\Unit1.pas=C:\Dev\Delphi\Components\EvilLibrary\Source\EvilWorks.Design.HTTPHeadersEditor.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.988,C:\Dev\Delphi\Components\EvilLibrary\Source\Unit1.dfm=C:\Dev\Delphi\Components\EvilLibrary\Source\EvilWorks.Design.HTTPHeadersEditor.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.988,C:\Dev\Delphi\Components\EvilLibrary\Source\Unit1.pas=C:\Dev\Delphi\Components\EvilLibrary\Source\EvilWorks.Design.HTTPHeadersEditor.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.677,C:\Dev\Delphi\Projects\Package1.dproj=C:\Dev\Delphi\Components\EvilLibrary\Source\EvilLibraryD.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.965,=rtl.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.952,C:\Dev\Delphi\Components\EvilLibrary\Source\EvilWorks.Design.HTTPHeadersEditor.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.639,=vcl.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.142,=C:\Dev\Delphi\Components\EvilLibrary\Source\EvilWorks.Vcl.Reg.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="-1" SortType="1"/>
+</BorlandProject>

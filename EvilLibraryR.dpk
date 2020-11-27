@@ -1,0 +1,58 @@
+package EvilLibraryR;
+
+{$R *.res}
+{$IFDEF IMPLICITBUILDING This IFDEF should not be used by users}
+{$ALIGN 8}
+{$ASSERTIONS ON}
+{$BOOLEVAL OFF}
+{$DEBUGINFO ON}
+{$EXTENDEDSYNTAX ON}
+{$IMPORTEDDATA ON}
+{$IOCHECKS ON}
+{$LOCALSYMBOLS ON}
+{$LONGSTRINGS ON}
+{$OPENSTRINGS ON}
+{$OPTIMIZATION OFF}
+{$OVERFLOWCHECKS OFF}
+{$RANGECHECKS OFF}
+{$REFERENCEINFO ON}
+{$SAFEDIVIDE OFF}
+{$STACKFRAMES ON}
+{$TYPEDADDRESS OFF}
+{$VARSTRINGCHECKS ON}
+{$WRITEABLECONST OFF}
+{$MINENUMSIZE 1}
+{$IMAGEBASE $400000}
+{$DEFINE DEBUG}
+{$ENDIF IMPLICITBUILDING}
+{$DESCRIPTION 'EvilWorks.EvilLibrary.Runtime'}
+{$RUNONLY}
+{$IMPLICITBUILD ON}
+
+requires
+  rtl,
+  vcl,
+  vclimg;
+
+contains
+  EvilWorks.Vcl.BrowseDialog in 'EvilWorks.Vcl.BrowseDialog.pas',
+  EvilWorks.Vcl.ConnectionMonitor in 'EvilWorks.Vcl.ConnectionMonitor.pas',
+  EvilWorks.Vcl.ConsoleIO in 'EvilWorks.Vcl.ConsoleIO.pas',
+  EvilWorks.Vcl.FindFiles in 'EvilWorks.Vcl.FindFiles.pas',
+  EvilWorks.Vcl.FormSettings in 'EvilWorks.Vcl.FormSettings.pas',
+  EvilWorks.Vcl.GenericControl in 'EvilWorks.Vcl.GenericControl.pas',
+  EvilWorks.Vcl.SplitPanel in 'EvilWorks.Vcl.SplitPanel.pas',
+  EvilWorks.Vcl.Timers in 'EvilWorks.Vcl.Timers.pas',
+  EvilWorks.Web.AsyncSockets in 'EvilWorks.Web.AsyncSockets.pas',
+  EvilWorks.Web.HTTP in 'EvilWorks.Web.HTTP.pas',
+  EvilWorks.Web.IRC in 'EvilWorks.Web.IRC.pas',
+  EvilWorks.Web.Twitter in 'EvilWorks.Web.Twitter.pas',
+  EvilWorks.Vcl.VirtualListbox in 'EvilWorks.Vcl.VirtualListbox.pas',
+  EvilWorks.Vcl.TweetsControl in 'EvilWorks.Vcl.TweetsControl.pas',
+  EvilWorks.Vcl.MarkupLabel in 'EvilWorks.Vcl.MarkupLabel.pas',
+  EvilWorks.Vcl.MarkupControl in 'EvilWorks.Vcl.MarkupControl.pas',
+  EvilWorks.Web.TwitterTypes in 'EvilWorks.Web.TwitterTypes.pas',
+  EvilWorks.Vcl.Fullscreen in 'EvilWorks.Vcl.Fullscreen.pas';
+
+end.
+
